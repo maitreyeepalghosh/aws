@@ -1,2 +1,2 @@
 # aws
-This repository for learning related to awscloud.
+This repository for learning related to aws cloud.
